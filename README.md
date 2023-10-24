@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto Devlinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".vscode/.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ O DevLinks é um agregador de links para usar como cartão de vistas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/qLf1yoPZw7F0LVsVxtPMNX/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437%3A191&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/qLf1yoPZw7F0LVsVxtPMNX/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437%3A191&mode=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
